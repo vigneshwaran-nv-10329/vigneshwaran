@@ -15,7 +15,3 @@ branding:
 runs:
   using: 'docker'
   image: '_action_files/Dockerfile'
-
-- name: vikky34v
-uses: vignesh34v/vigneshwaran@0
-
