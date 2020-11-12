@@ -3,9 +3,17 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+What I think of myself,
+* Introvert
+* Computer nerd
+ 
+Passionate about
+- Competitive Programming
+- Deep Learning
+- Math
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+My Wish:
+> I have desire to wake up early and hit gym regularly.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My Journey:
+> Working in Natural Language Processing
