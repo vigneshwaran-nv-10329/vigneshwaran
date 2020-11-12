@@ -12,8 +12,12 @@ Passionate about
 - Deep Learning
 - Math
 
-My Wish:
-> I have desire to wake up early and hit gym regularly.
-
 My Journey:
-> Working in Natural Language Processing
+``` 
+Working in Natural Language Processing
+```
+
+My Wish:
+```
+I have desire to wake up early and hit gym regularly.
+```
